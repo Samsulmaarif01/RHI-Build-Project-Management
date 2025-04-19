@@ -3,7 +3,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Samsulmaarif01/RHI_Build.git
+git clone https://github.com/Samsulmaarif01/RHI-Build-Project-Management.git
 cd rhi-build
 ```
 
