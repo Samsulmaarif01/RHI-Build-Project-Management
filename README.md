@@ -12,7 +12,6 @@ cd RHI-Build-Project-Management
 ### 2. Install Dependensi Laravel
 ```bash
 composer install
-npm install && npm run build
 ```
 ```bash
 npm install && npm run build
@@ -21,7 +20,6 @@ npm install && npm run build
 ### 3. Konfigurasi Environment
 ```bash
 cp .env.example .env
-php artisan key:generate
 ```
 ```bash
 php artisan key:generate
