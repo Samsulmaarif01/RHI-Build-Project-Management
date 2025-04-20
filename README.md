@@ -4,18 +4,24 @@
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/Samsulmaarif01/RHI-Build-Project-Management.git
-cd rhi-build
+```
+```bash
+cd RHI-Build-Project-Management
 ```
 
 ### 2. Install Dependensi Laravel
 ```bash
 composer install
+```
+```bash
 npm install && npm run build
 ```
 
 ### 3. Konfigurasi Environment
 ```bash
 cp .env.example .env
+```
+```bash
 php artisan key:generate
 ```
 
